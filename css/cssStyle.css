@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&family=Smooch&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+ul a[href="index.html"]
+{
+    font-family: "Kaushan Script";
+    font-size: medium;
+    text-decoration: none;
+}
+a[href="recipes.html"]
+{
+    font-family: "Kaushan Script";
+    text-decoration: none;
+}
+a[href="tips.html"]
+{
+    font-family: "Kaushan Script";
+    text-decoration: none;
+}
+a[href="contributors.html"]
+{
+    font-family: "Kaushan Script";
+    text-decoration: none;
+}
+a[href="about.html"]
+{
+    font-family: "Kaushan Script";
+    text-decoration: none;
+}
+main li {
+    font-family: "Kaushan Script";
+    text-decoration: none;
+}
+a[href="index.html"]
+{
+    font-family: "Smooch", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size:40px;
+    text-decoration: none;
+}
+main h2
+{
+    font-family: "Smooch", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size:40px;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(146, 127, 99);
+}
