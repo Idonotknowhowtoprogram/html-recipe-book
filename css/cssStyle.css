@@ -47,5 +47,25 @@ main h2
     text-decoration: none;
 }
 body{
-    background-color: rgb(146, 127, 99);
+    background-image: url("../images/vintage-grunge-paper-background.jpeg");
+    display:block;
+    background-position: 1%;
+}
+html{
+    text-align: center;
+    list-style-type: none;
+}
+ul {
+    list-style-type: none;
+}
+header {
+    background-image: url("../images/topScrollDone.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+main {
+    background-image: url("../images/bottom\ of\ scrollDone.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: bottom;
 }
