@@ -1,0 +1,22 @@
+header p{
+    background-image: url("../images/topScrollDone.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+    padding-top: 20%;
+    color:rgb(89, 52, 10);
+}
+main::after {
+    margin:0;
+    padding:0;
+    content: "";
+    width: 100%;
+    height: 20em;
+    display: block;
+    position: absolute;
+    top: 100%;
+    background-image: url("../images/bottom\ of\ scrollDone.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    
+}

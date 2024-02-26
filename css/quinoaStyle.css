@@ -1,0 +1,38 @@
+header p a{
+    font-family: "Kaushan Script";
+    font-size: x-large;
+    text-decoration: none;
+    position: center;
+}
+body nav {
+   font-family: "Kaushan Script";
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
+main h3 {
+    font-family: "Kaushan Script";
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    color:rgb(89, 52, 10);
+}
+ol {
+    color:rgb(89, 52, 10);
+    font-weight: bold; 
+}
+body [href="http://www.closetcooking.com/2014/01/quinoa-white-chicken-chili.html"]{
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: 10em;
+    display: block;
+    background-image: url("../images/bottom\ of\ scrollDone.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
